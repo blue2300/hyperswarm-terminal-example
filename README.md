@@ -6,7 +6,7 @@ A high-level API for finding and connecting to peers who are interested in a "to
 
 ## Installation
 ```
-npm install hyperswarm
+npm i bare-readline bare-tty bare-process hyperswarm b4a hypercore-crypto
 ```
 ## Hyperswarm API
 
