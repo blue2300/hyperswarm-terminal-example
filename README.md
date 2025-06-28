@@ -1,14 +1,14 @@
-# hyperswarm
+# hyperswarm-terminal-example
 
 ### [See the full API docs at docs.holepunch.to](https://docs.holepunch.to/building-blocks/hyperswarm)
 
-A high-level API for finding and connecting to peers who are interested in a "topic."
+An example showing how to direct connect to a known peer public key using ```joinPeer```
 
 ## Installation
 ```
 npm i bare-readline bare-tty bare-process hyperswarm b4a hypercore-crypto
 ```
-## Hyperswarm API
+## Full Hyperswarm API
 
 #### `const swarm = new Hyperswarm(opts = {})`
 Construct a new Hyperswarm instance.
